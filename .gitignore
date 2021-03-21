@@ -1,0 +1,5 @@
+build/*
+*.user
+test.cpp
+*.autosave
+*.png
